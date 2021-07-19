@@ -1,0 +1,6 @@
+  var big ;
+var a = userInput[0];
+var b = userInput[1];
+var c = userInput[2];
+  big = Math.max(a,b,c);
+        console.log(big);
