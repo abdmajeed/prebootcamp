@@ -1,0 +1,7 @@
+let fact = 1;
+number = userInput[0];
+var i;
+    for (i = 1; i <= number; i++) {
+        fact *= i;
+    }
+    console.log(fact);
