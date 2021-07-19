@@ -1,0 +1,3 @@
+var b = userInput[1];
+area =a*b;
+console.log(area);
