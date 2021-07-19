@@ -1,0 +1,4 @@
+var a = userInput[0];
+    var b = userInput[1];
+    c = +a + +b;
+    console.log(c);
