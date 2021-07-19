@@ -1,0 +1,5 @@
+var a = userInput[0];
+    b = a*1;
+    c= a*2;
+    d= a*3;
+    console.log(b ,c ,d);
